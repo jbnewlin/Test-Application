@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Testanwendung</string>
     <string name="edit_message">Geben Sie eine Nachricht</string>
-    <string name="button_send">Senden</string>
+    <string name="button_record">Aufzeichnen</string>
+    <string name="button_play">Spielen</string>
+    <string name="button_stop">Halt</string>
 </resources>
